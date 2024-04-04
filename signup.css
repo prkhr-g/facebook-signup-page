@@ -1,0 +1,109 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+form{
+    border: 0.2px solid rgba(128, 128, 128, 0.638);
+    margin: 0 546px 0 546px;
+    border-radius: 7px;
+    box-shadow: 2px 2px 10px ;
+}
+h2{
+    margin-top: 5px;
+}
+h2 + div{
+    font-size: 15px;
+    margin-top: -13.9px;
+    color: grey;
+}
+.font{
+    color: grey;
+    font-size: 11px;
+}
+#left{
+    text-align: left;
+}
+.left{
+    text-align: left;
+}
+#name{
+    border: 0.2px solid rgba(128, 128, 128, 0.638);
+    margin-top: 6px;
+    margin-right: 5px;
+    padding: 8px;
+    width:175px;
+}
+#lastname{
+    border: 0.2px solid rgba(128, 128, 128, 0.638);
+    margin-top: 6px;
+    margin-left:5px;
+    padding: 8px;
+    width: 175px;
+}
+input{
+    border-radius: 4px;
+}
+#gmail{
+    margin-top: 11.5px;
+    padding:8px;
+    border: 0.2px solid rgba(128, 128, 128, 0.638) ;
+    width:380px ;
+}
+#pass{
+    margin-top: 11.5px;
+    margin-bottom: 11.5px;
+    padding:8px;
+    border: 0.2px solid rgba(128, 128, 128, 0.638) ;
+    width:380px ;  
+}
+label{
+    margin-left: 15px;
+    font-size: 12px;
+}
+.option{
+    width: 130px;
+    padding: 3.5px 0;
+    text-align: left;
+}
+p{
+    margin-left:12px;
+    margin-right:1px;
+    text-align: left;
+}
+.gender{
+    border:0.2px solid rgba(128, 128, 128, 0.638) ;
+    display: inline-block;
+    padding: 1px;
+    width: 125px;
+    border-radius: 4px;
+}
+a{
+    text-decoration: none;
+    color: #385898;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+button{
+    background-color: #42b72a;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 75px;
+    padding-right: 75PX;
+    font-weight: bold;
+    color: white;
+    border-radius: 5px;
+    border-width: 0;  
+}
+h4{
+    color: #1877f2;
+}
+select{
+    border-radius: 4px;
+    border: 0.2px solid rgba(128, 128, 128, 0.638) ;
+}
+img{
+    margin-bottom: 2.8px;
+}
+
